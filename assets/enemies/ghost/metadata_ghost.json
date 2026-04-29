@@ -21,10 +21,10 @@
     "h": 0.576577
   },
   "stats": {
-    "maxHealth": 100,
-    "contactDamage": 90,
+    "maxHealth": 1000,
+    "contactDamage": 100,
     "respawnDelayMs": 7000,
-    "minSoulsRequired": 1000
+    "minSoulsRequired": 990
   },
   "behavior": {
     "movementMode": "flying",
